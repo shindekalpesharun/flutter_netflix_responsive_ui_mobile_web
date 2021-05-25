@@ -7,4 +7,3 @@ class AppBarCubit extends Cubit<double> {
 }
 
 // event->bloc->state
-// 44:53
