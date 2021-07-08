@@ -1,6 +1,6 @@
 # flutter_netflix_responsive_ui
 
-A new Flutter project.
+A new Flutter project on hosted https://shindekalpesharun.github.io/flutter_netflix_responsive_ui_mobile_web/
 
 ## Getting Started
 
